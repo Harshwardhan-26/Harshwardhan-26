@@ -1,3 +1,4 @@
+![logo](https://github.com/Harshwardhan-26/Harshwardhan-26/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Harshwardhan Goyal</h1>
 <h3 align="center">A Driven Programmer exploring new technologies</h3>
 
